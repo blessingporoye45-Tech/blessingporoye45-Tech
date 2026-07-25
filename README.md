@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm [Poroye Blessing] 👋
 
-<!--
-**blessingporoye45-Tech/blessingporoye45-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science Graduate**, **Data Analyst**, and **Web Designer**. I bridge the gap between complex data insights and clean, visual web design to build functional, user-focused digital experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech & Tool Stack
+
+- **Data Analysis & Visualization:** Python (Pandas, NumPy, Matplotlib), SQL, Excel, Power BI
+- **Web Design & Frontend:** Figma, HTML5, CSS3, JavaScript, React, Framer, Tailwind CSS
+- **Version Control & Hosting:** Git, GitHub, Vercel, Netlify
+
+---
+
+### 📊 What I Do
+
+- 🔍 **Data Analysis:** Cleaning messy datasets, extracting actionable business trends, and building dynamic Power BI dashboards.
+- 🎨 **Web Design:** Designing user-centric interfaces in Figma and bringing them to life with modern web frameworks.
+- 💡 **Data-Driven Web Solutions:** Merging data visualization with interactive web designs for real-world usability.
+
+---
+
+### 📫 Connect With Me
+
+- **Email:** [blessingporoye45@gmail.com]
+  
